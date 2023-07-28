@@ -185,8 +185,7 @@ You will notice the secret created in the list of secrets.
 2. In **Settings**, select **Access configuration**.
 3. Then **go to access policies** and **create** to create a new policy.
 4. In the **Secret permissions** fields, select **Get** and **List**.
-5. In the **Key permissions** fields, select **Get**.
-6. In the **Select principal** field, locate and select the application, **Microsoft Dynamics ERP Microservices**, and then click **Select**. 
+5. In the **Select principal** field, locate and select the application, **Microsoft Dynamics ERP Microservices**, and then click **Select**. 
 
     > [!NOTE]
     > If you can't find **Microsoft Dynamics ERP Microservices**, see the [Create Service Principal](#createServicePrincipal) section in this document.
